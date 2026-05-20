@@ -1,0 +1,86 @@
+[
+  {
+    "id": "s1",
+    "hash": "3e3a411c69e441cb868284d4476a7ce6dc911870baa1d063e3f84db0d0a154bf",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 4224
+  },
+  {
+    "id": "s2",
+    "hash": "703b0d5a709d2ca093c420196d980cdc67edaad92324c0d7cb2c331952bece70",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 5112
+  },
+  {
+    "id": "s3",
+    "hash": "7c57856fa56a44d8727c46e9731c22517827ac6ade84c41dfb3bcd6057cf655c",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 4056
+  },
+  {
+    "id": "s4",
+    "hash": "c72d5db551fc31049310f3aa5e1244917aff172c88ea5169810aaba33d14e357",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 5640
+  },
+  {
+    "id": "s5",
+    "hash": "659f35c1b904ff80eae0b49fb18e9f0d672f8bb8d5de82c1b5338a158d9b9aa1",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 4128
+  },
+  {
+    "id": "s6",
+    "hash": "584b66224caaeb8e8d4c513640b9a127455469a6b07ed52553eef31b49c31338",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 4344
+  },
+  {
+    "id": "s7",
+    "hash": "84af03d7989fa60b7322bc2f1af064ad65820819984c4b15eff01fec7d652b52",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 4344
+  },
+  {
+    "id": "s8",
+    "hash": "79b4f0c179d3e0a4326e4f9c0bc717d7138fa0d1777db30b3d02457b68b29f06",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 4344
+  },
+  {
+    "id": "s9",
+    "hash": "a5e18ab6788e7c1a0a0a58ad27e945e1638b1728353e223c76989bb1dee6b1ce",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 2664
+  },
+  {
+    "id": "s10",
+    "hash": "9544012669d44230b7f73ac73efe2281c35e727dd377f1096f632fef82faffae",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 5568
+  },
+  {
+    "id": "s11",
+    "hash": "71fdbdd8c2b285a3bd1f80801a51c2012476585351c4a7329b3dc1d71efdbbfa",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 4056
+  },
+  {
+    "id": "s12",
+    "hash": "fa7c479ba3605b4d8bffb57c14a0a1da0d21d6ed98f785d9d202351a8112ad40",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 2712
+  },
+  {
+    "id": "s13",
+    "hash": "3b9ef093bdbb1e05fddffee5f37856172e24f12a823a2be50327c1eaaafc0635",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 4488
+  },
+  {
+    "id": "s14",
+    "hash": "fe397f948660e85dd4d5e1cb4eaba77c5c8f411655d1d827f82c1f30d43ab54e",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 4152
+  }
+]
