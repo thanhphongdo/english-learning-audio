@@ -111,13 +111,13 @@
     "id": "s19",
     "hash": "d4c57a03ea25e695f4f9ab1cba814e3621570c8ef8522eabdd14bd9f3bc99dde",
     "edgeVoice": "en-US-AriaNeural",
-    "durationMs": 432
+    "durationMs": 2232
   },
   {
     "id": "s20",
     "hash": "166a3e552dccf660638484e2806abe504c9f7c1d9a07983c64df56f546168239",
     "edgeVoice": "en-US-AriaNeural",
-    "durationMs": 360
+    "durationMs": 3360
   },
   {
     "id": "s21",
@@ -135,6 +135,6 @@
     "id": "s23",
     "hash": "4e2faeeec1d2a5811da806299993fac407d8b71303eaf48639aafb48940c585e",
     "edgeVoice": "en-US-AriaNeural",
-    "durationMs": 288
+    "durationMs": 2688
   }
 ]
