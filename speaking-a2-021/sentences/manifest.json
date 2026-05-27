@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "hash": "4ba0436e0d6aa75f3289f1b817b9b582881bf1bcfc6b76ef2e934b216ea296ca",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 4560
+  },
+  {
+    "id": "s2",
+    "hash": "a0ac74762734d014da76988a2dd2e8008dd070e0d52a69cad7b67db7f717d5a1",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 6216
+  },
+  {
+    "id": "s3",
+    "hash": "b798034406340937d26249956b92da26730e5f2fb455d636e01be9c4487c00b7",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 3576
+  },
+  {
+    "id": "s4",
+    "hash": "eb649cc2a7390e7042593545d387a0b339a7add041da48bcc18afb7adf850296",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 7200
+  },
+  {
+    "id": "s5",
+    "hash": "b4a03f191f4d658480fd04007068a09fd15d5fd981b0116f17be4faaef98026d",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 4848
+  },
+  {
+    "id": "s6",
+    "hash": "2b5bcf0f5ac24d60dc301eeca7f7cdcaf254e1edd54d48be6bf9754c41b8d62a",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 5136
+  },
+  {
+    "id": "s7",
+    "hash": "2f647cb799646baf37dbb23d5372cd2c5f1bb69a298fa1f6d216061d770445fa",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 5640
+  },
+  {
+    "id": "s8",
+    "hash": "e5ff00b39a14dd1aba66223f06a16272a8acf7693ae0a7118a1a36dd39225e68",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 5568
+  },
+  {
+    "id": "s9",
+    "hash": "c500681d0ea859f9a213626846cdc90913c546813b11a3520fe28cfba816e47c",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 4896
+  },
+  {
+    "id": "s10",
+    "hash": "81b7b8a3437583bc1ba32cc49b2d993965a04089191ed7dc1b57c692bb751c33",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 5616
+  },
+  {
+    "id": "s11",
+    "hash": "59282c994c7482cc889efd817b082bf918c595f04cb3c53611d048ead5fdfc00",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 4728
+  },
+  {
+    "id": "s12",
+    "hash": "3e0d2301510a7c358a085ed47485577c85e02b9e3cbe5db345a3fecab6add784",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 7296
+  }
+]
