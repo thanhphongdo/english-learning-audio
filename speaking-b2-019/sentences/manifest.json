@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s1",
+    "hash": "147248d59be457d2d536fd3f197105497704b513d7f40fe1c70e17af8ffe8696",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 10872
+  },
+  {
+    "id": "s2",
+    "hash": "3ab0a33d9f397587140a85fe994df1b15b111761bc467d22de5df9ca01052e2d",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 10560
+  },
+  {
+    "id": "s3",
+    "hash": "c222d311930d7bcac3cd412c9eca9dfa62621af9005d6a2e9f95a75cc5161928",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 9048
+  },
+  {
+    "id": "s4",
+    "hash": "5925fcb2d851e7838534686d5b386443e20b9d740145c4964c6950f7288ac67b",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 9768
+  },
+  {
+    "id": "s5",
+    "hash": "c255d47bb4495378746aea65eb59292ae8f88e23a22d241a5a3b6adbafab2a37",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 9000
+  },
+  {
+    "id": "s6",
+    "hash": "6ba8ed0b374bdc5d34a3a23edbc68d3a4a8e7e6d5cbba45f19caf3c04a496226",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 12144
+  },
+  {
+    "id": "s7",
+    "hash": "a47f72ad84ccea2b1f273a0c49ef766f63c65f0c7a1a3771d23bc98fd48eb01d",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 6768
+  },
+  {
+    "id": "s8",
+    "hash": "aa476ea9151a19c62d930a9bff187c3e60792e5592bcc0564f0a742b24dc6942",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 9528
+  },
+  {
+    "id": "s9",
+    "hash": "f8ede85cf44908df8c22265371ff59207a3153c0b6aad802bb671582825e3699",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 8232
+  },
+  {
+    "id": "s10",
+    "hash": "5e83a81eed7f9403b4c8e711c66863e63e476f744d3e4089c1d87f618e4b828e",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 10368
+  },
+  {
+    "id": "s11",
+    "hash": "b52b0afd5d18f7a9786233acc9ea2e66a7d8a454131de84386fe35679f167f64",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 7320
+  },
+  {
+    "id": "s12",
+    "hash": "8dbbfbd36a910ac36e7147c7c097b75c8f0d3844a4ebced8c3c76a7c1101ead3",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 10224
+  },
+  {
+    "id": "s13",
+    "hash": "92dda4284419b508a92c2c6578ab52ebaf5afe4f0661e8e389c7ea8314239338",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 8064
+  },
+  {
+    "id": "s14",
+    "hash": "a53bc575e1d2dc6827e9695a05a04dfdfa1353ed6af79301b8010383b1498e62",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 10752
+  },
+  {
+    "id": "s15",
+    "hash": "0bd1374deeda6ad468eb983f45d6e77fbebf8ea5aa205dedbbd950458b72f267",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 6336
+  },
+  {
+    "id": "s16",
+    "hash": "aaabb928da27eab2b5fcdf21c4ddddf8b528e614c29ccd3ddcc8724251f849f0",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 8616
+  }
+]
