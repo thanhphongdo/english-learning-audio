@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "hash": "ad094214c93273376051437504c8354ba62df92d3f0b8d650a9305dc8c38904d",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 4440
+  },
+  {
+    "id": "s2",
+    "hash": "81eb0aa7f618b189fe881decb652a51d9bc92328055cb81ca271f573d8790bf3",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 3576
+  },
+  {
+    "id": "s3",
+    "hash": "844413d7b8daac6ec8f3d6e06160252fea3d5516c6bcbf0a15f04178c4d5c4cb",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 4344
+  },
+  {
+    "id": "s4",
+    "hash": "8f6b3d1f5ccd4a6b1273f8d0165c31fa91a2cdf4e1a30c7236d28831a41e6376",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 3816
+  },
+  {
+    "id": "s5",
+    "hash": "df91e8a799c05a373227a7f232f99735b94225d9a7cba11830921a4b25499a65",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 2928
+  },
+  {
+    "id": "s6",
+    "hash": "1f88b81f2d98e9c010ca5e70a658fa9893b6a1462dc1e133f99f827e10afe370",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 6936
+  },
+  {
+    "id": "s7",
+    "hash": "c00d27c180f4ac582fd2f05fa8496f741f83f9c1f7572a089ff83ffbeedb372b",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 3672
+  },
+  {
+    "id": "s8",
+    "hash": "a5318c3724b3b7b6381f24106697ad40138ae6dd12dd3e0c9d3f36e9a245ac07",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 4128
+  },
+  {
+    "id": "s9",
+    "hash": "09727489d2c857e30876c1d6a4d6c0955a4b7e0445d89398d719244b65e0d707",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 4392
+  },
+  {
+    "id": "s10",
+    "hash": "1f3ebb1987ef8ba73bfbc7ccb616c0ba29611c2383d8b738061c5d63613a2669",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 6336
+  },
+  {
+    "id": "s11",
+    "hash": "75f9ebf3a37d10b5d1dff0c1077449cef954a522e9659054729cd77b7e258026",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 1992
+  },
+  {
+    "id": "s12",
+    "hash": "737e42a79514f14467aefab307f81b7ee94de370f9fdcb5a2b99557074fa44cb",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 3600
+  }
+]
