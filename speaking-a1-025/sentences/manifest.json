@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "hash": "abfbb28adac1339e260e5a51f2f7dd86788e65875d0ba6fc1b424800fd18a529",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 2736
+  },
+  {
+    "id": "s2",
+    "hash": "f3d8d045e39fb0389c876acb97091d59886b69e6abe5e49d7a51259f4774c167",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 3216
+  },
+  {
+    "id": "s3",
+    "hash": "e5ecfc6c2ac8183c7348e555fe4f322ef560f75115ee9ef9ac166267c11f36a3",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 3792
+  },
+  {
+    "id": "s4",
+    "hash": "ef6dbaa74b60ea3620766cfca1d3173369c385cf6a375db8135c79925d921b28",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 3072
+  },
+  {
+    "id": "s5",
+    "hash": "b356e5c5aee23d92a749e1dc23516594a7f537c8dd8a84400dd44b5d3a5b6c0d",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 5064
+  },
+  {
+    "id": "s6",
+    "hash": "c0605dfec3670ff89e574be2a508d664e318e0db4e301def58edee15dbe661c5",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 3072
+  },
+  {
+    "id": "s7",
+    "hash": "8461a3b3bfbb4f221b895344390f9ce7636fd9672ff27f65a599b8d75c0b9223",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 4632
+  },
+  {
+    "id": "s8",
+    "hash": "54ddc6a5ae307f2318c36334067dd213f8272091878593971b28a95daef90dc5",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1848
+  },
+  {
+    "id": "s9",
+    "hash": "85d99362418aae0e3216440cd243fe0ffc1c3e0348e6a41cfedda94db21e78ec",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 4344
+  },
+  {
+    "id": "s10",
+    "hash": "c43a3d75bf53853a1da8c388c6828a8098b43406ab7d70c25128e9ba79d01d04",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 3168
+  },
+  {
+    "id": "s11",
+    "hash": "af11c321fc37af3b9fbb7ed5f08455971728d133c7d4b8a1a824512c2e82d2a5",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 4008
+  },
+  {
+    "id": "s12",
+    "hash": "545feb249f42f948a4ddc0c088689815e6d0b590d846e340b8580ba983011d4c",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 3216
+  }
+]
