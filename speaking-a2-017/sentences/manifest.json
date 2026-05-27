@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "hash": "d9fc7553cf349596cb34a1b0993b446dd1823e9f5e17b19ec38fdbe4186c7f82",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 3120
+  },
+  {
+    "id": "s2",
+    "hash": "58669c37555ce13f6578bc270e571bb732308751d645acc35357ffb8c8f9fc96",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 5280
+  },
+  {
+    "id": "s3",
+    "hash": "58263317203d043fbdee6a1acc4543a088e4abdc2fdddf5a895cb8894b19207d",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 3480
+  },
+  {
+    "id": "s4",
+    "hash": "5b52197cb5392629dbe41d6b7c6e791d1fcc80110aa926c7b319c1e5fe9d5d0e",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 5040
+  },
+  {
+    "id": "s5",
+    "hash": "ecb02e0b23ad9929c061f6f05bf2ef72f2550b21963b981f14f1d45b0ecebcd9",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 2472
+  },
+  {
+    "id": "s6",
+    "hash": "2f40623862efc7754fb7ecc8b3b346ec89b74245ea36632522161a120b4194ca",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 4584
+  },
+  {
+    "id": "s7",
+    "hash": "94ae596fe07121d08b1aff1a7d6c68f1f1b1029d2e905156224ae1ecf5df087f",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 3192
+  },
+  {
+    "id": "s8",
+    "hash": "4d614927ee8edb384abbf84e7334fe2c895c1e33ec84d7b378d80733034fe045",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 4944
+  },
+  {
+    "id": "s9",
+    "hash": "63f5588f56a2fb13b49c0ca6c9273dda965159a53a3c00ba9756671b955e7195",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 2064
+  },
+  {
+    "id": "s10",
+    "hash": "3ffc63a1b38108f7a50f813816fc43f26a17b0697626c7254fb95b578ddf3ca5",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 4392
+  },
+  {
+    "id": "s11",
+    "hash": "371634308a8ab8af0c70df178e08fe9ed444de6fd7b798b00e36d20d54cad5c6",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 3768
+  },
+  {
+    "id": "s12",
+    "hash": "019471354b45e059ac0a2f80d3a785f8d88dad9bfa7539f176b7c5f1640a31a4",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 4776
+  }
+]
