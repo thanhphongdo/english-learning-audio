@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "hash": "332b67e2f2b851acf99ef726b85004047a6240a3b115a2fe0dc35ba516c734d3",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 5184
+  },
+  {
+    "id": "s2",
+    "hash": "5190359ab2fe185c2ca164cb96b4c5b0c2bf5daaac07203b362d59d5a26e1dd1",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 2544
+  },
+  {
+    "id": "s3",
+    "hash": "912e2dfb860a5c118e3860329ce88794b50aedd96412bb5ab1945bdf6071904c",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 5952
+  },
+  {
+    "id": "s4",
+    "hash": "7a372e38be784642f8bcf0cbd723dba52e2b54dfa97b86c23fe6cacba6a0bf46",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 5184
+  },
+  {
+    "id": "s5",
+    "hash": "675bd44831295a63c82165c903915bbb29e1df0c7355c85cea88d64136baf785",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 3048
+  },
+  {
+    "id": "s6",
+    "hash": "1b7b33bd7dd2eff6d67deb14feeb2b2f224e572e2b0c3739bc0fe8ecccbde0c1",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 3600
+  },
+  {
+    "id": "s7",
+    "hash": "c8e405d35ccd2785e3ca9f2cc16e16f919d36a13a517a3f1279fca76330c0a53",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 3960
+  },
+  {
+    "id": "s8",
+    "hash": "353c0939318518fc44ba39c7809a37f422a9698996b23168e113bd4b6dbc38a0",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 3984
+  },
+  {
+    "id": "s9",
+    "hash": "c52ac8d11940dc3bfa4a14f7b644a0bac27302773f67897cffc4d89c4feb1e81",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 2832
+  },
+  {
+    "id": "s10",
+    "hash": "d8e36039c07225cd5c58c6e1ddb750848778a5e2c628053b27cb8ba97110e232",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 5832
+  },
+  {
+    "id": "s11",
+    "hash": "205049a1ae2a1de72506f2f1e654a03bbca18f2206d6413ecfb4b0e9f8b91929",
+    "edgeVoice": "en-US-EricNeural",
+    "durationMs": 5952
+  },
+  {
+    "id": "s12",
+    "hash": "d8f491e2f7d5f8bfbdba0fbbc8c05b72add3eb0d6f7c577a31081cc402b040f2",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 4080
+  }
+]
