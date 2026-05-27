@@ -1,0 +1,20 @@
+[
+  {
+    "id": "h1",
+    "hash": "0e9440a0e0a53d99f6331a934ef099dea6c53b5815f7a33d87f16b50c451190d",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 6312
+  },
+  {
+    "id": "h2",
+    "hash": "75a600bde1fa4093c592df4cc15ed90034faae5674a91fcca05bf50480e74af3",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 7440
+  },
+  {
+    "id": "h3",
+    "hash": "215df3d055bfdc5439f07e0d61f4195f657930dbdb83cbbbc16549076f888ac9",
+    "edgeVoice": "en-US-SteffanNeural",
+    "durationMs": 8640
+  }
+]
