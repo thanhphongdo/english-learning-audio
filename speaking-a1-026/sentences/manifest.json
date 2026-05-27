@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "hash": "0010b0d4879cb831318ff1c02ac0767ae70d96546cefc933f93f057c2a316bb9",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 3432
+  },
+  {
+    "id": "s2",
+    "hash": "70b2fff2123a9cb48c502caef345218769b3f5c8d4bc9ec0b4ab3d3816054328",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 3144
+  },
+  {
+    "id": "s3",
+    "hash": "f9ce643cdef340bf578cb695adda069df78b4dfb3059e9f522c15fd303068350",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 4104
+  },
+  {
+    "id": "s4",
+    "hash": "49de66fd877dbdb5e3b788660f6b23e0f0c8295fe4b6ac2048bbb41ab3123963",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 4128
+  },
+  {
+    "id": "s5",
+    "hash": "f381439014c7d3a4be207b35b859f11708b44284e0b2179505398cf1e05fd504",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 4368
+  },
+  {
+    "id": "s6",
+    "hash": "f4759e7697385ac9581023226a0f14d92c8fed2764776c60c8c086518055bf59",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 3024
+  },
+  {
+    "id": "s7",
+    "hash": "59e33a46bdc9b52ba60d48433ebdc2a86bb00da93305b08c498df490b039d2d9",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 2136
+  },
+  {
+    "id": "s8",
+    "hash": "5755f0c3d09398eabe77aee748c255df5c8a1932db64a86f9984b0be7bfa15be",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 4008
+  },
+  {
+    "id": "s9",
+    "hash": "e90547d06c058eb659d23905bd45b2658e3cd4c0ed4bea014842de0ccf56d386",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 4152
+  },
+  {
+    "id": "s10",
+    "hash": "464f8795a91e036492031ba78d45c700caa97366ab3e9dc3b213e89563c9396b",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 2448
+  },
+  {
+    "id": "s11",
+    "hash": "bcae2313c288403fae88b090d672ccc21a48a22d0c3ad80b21c1c0ca4e483e04",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 3768
+  },
+  {
+    "id": "s12",
+    "hash": "04893ca6602ffec2dfa43f773be9fbd89142d43aafc2b4bc19b3ca696d48b9ef",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 2976
+  }
+]
