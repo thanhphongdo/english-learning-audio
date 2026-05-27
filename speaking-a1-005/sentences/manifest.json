@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "hash": "ccaf49deb9aced650a981b2b1fd4cf35017d0b5c4ba658b5b3e03948c0ffc08c",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 1464
+  },
+  {
+    "id": "s2",
+    "hash": "47069460ecb25babded6275b80c049a47733c88fe36b1e1f4062104348d353cb",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 4056
+  },
+  {
+    "id": "s3",
+    "hash": "41bfd3f91bf599ea7a12ff1d317750486c491f76b419e91a2c15310d9a3fab15",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 5592
+  },
+  {
+    "id": "s4",
+    "hash": "2298f4d6220924a1bd9c9793bbf55458da72cc359b21c1201d495b4ec4e88973",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 4008
+  },
+  {
+    "id": "s5",
+    "hash": "b3c4e30af0de92b208366c9eb6a39d2de5f521a4ebd2dacce8ccf5edc831b7ae",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 4032
+  },
+  {
+    "id": "s6",
+    "hash": "176d1707977c279dd4a2675e12638f6c6003cad9f2a5d4e3b46545d9e5e34801",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 3936
+  },
+  {
+    "id": "s7",
+    "hash": "a9d08867090b4c82433e82eb9021a46d1ba74729a5dcd6a468be7cfde2a9fec5",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 4896
+  },
+  {
+    "id": "s8",
+    "hash": "b4da5b68642b1dc3345060a1fdd62c6cd0ed5a0d05db3e027412e960a5b629f0",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 3264
+  },
+  {
+    "id": "s9",
+    "hash": "3f09f3cc7808aba64d75c44d1a4b9f92ee5aa7c79ee866ca10dd2f511304895b",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 4200
+  },
+  {
+    "id": "s10",
+    "hash": "4f20aa611721186f10b6d806bee03973557f396410f13f6f033dfe4e69a477fb",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 3624
+  },
+  {
+    "id": "s11",
+    "hash": "dff4fde874c5c643464ea5ed5264a4d3e7a08e0a423cb19d3eb97b61fa91feb4",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 3072
+  },
+  {
+    "id": "s12",
+    "hash": "328cd5e00a86483640e031536de0eff5827d534ab8bc9fc12d87fb25a7c01897",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 4080
+  }
+]
