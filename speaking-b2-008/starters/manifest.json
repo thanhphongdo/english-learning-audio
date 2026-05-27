@@ -1,0 +1,20 @@
+[
+  {
+    "id": "h1",
+    "hash": "35c170af968b3c3cbc7c521b4d2a784df48a619471f989ddc1a8eb90bfae5f9a",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 2688
+  },
+  {
+    "id": "h2",
+    "hash": "4702af9bf094e0d26ec3574d24ef8fa9c7c946c025fa12c576d6607cd375b046",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 3024
+  },
+  {
+    "id": "h3",
+    "hash": "ac1fcf27ac2b9ef35b50dacccd22cee2e8579ccd94d913f6a89bc576d5066ce3",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 2016
+  }
+]
