@@ -7,8 +7,20 @@
   },
   {
     "id": "v2",
-    "hash": "ea50b84111979a699f840e2ab0746aaf3edb74f11c8557b9040835106f37621c",
+    "hash": "4316fb6fa569b1fedd6454cea4254f1f9b0436f3300f61c8f1dc54d4abd70ffe",
     "edgeVoice": "en-US-JennyNeural",
-    "durationMs": 1848
+    "durationMs": 1728
+  },
+  {
+    "id": "v3",
+    "hash": "23d6448a740c461779d31cced846bedb50ea9ba33c51c4d51faa0e8ed7a97264",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 1944
+  },
+  {
+    "id": "v4",
+    "hash": "5a5b3f847a7a385f74674d80f49603f04f117fb664542b3d6bd8ae691a263e06",
+    "edgeVoice": "en-US-JennyNeural",
+    "durationMs": 1776
   }
 ]
