@@ -1,0 +1,140 @@
+[
+  {
+    "id": "s1",
+    "hash": "e32b4c6f6e5381855162ff4bc7db2fe835e8dd822ed6755cd3bdb1f59e8b608d",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 3720
+  },
+  {
+    "id": "s2",
+    "hash": "8ff45e9799f313426b9750b02adebe15470671f0d9d6a85b0f051020f2b0398a",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 2784
+  },
+  {
+    "id": "s3",
+    "hash": "aa8bbe8fe06d6a9249768b207c3c64b981055ea07f864635a764ff63ad0d75c4",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 1704
+  },
+  {
+    "id": "s4",
+    "hash": "e05963924530f77d14e31e426f6638e3e38808aa552260a4a1c15dd225fc989c",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 3096
+  },
+  {
+    "id": "s5",
+    "hash": "29a3a86eb8ca2f29c03eb8d7b699d5e0a5750a78e6e0a94dc50bfa4a87e911d0",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2256
+  },
+  {
+    "id": "s6",
+    "hash": "cc73c60a3f5a425feff9e6d31cd72592350d321b0a18c4627c9af3691c8d7546",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 2304
+  },
+  {
+    "id": "s7",
+    "hash": "615a9d9d50a996b9ca6a6e86c9315109dc7bf7c0c405cb4f3273bd2882027c57",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 2616
+  },
+  {
+    "id": "s8",
+    "hash": "3fb4b354c71ed1d3385afada6eafc668b62d92ebd3c60d0e448cb627df79a5cb",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 3576
+  },
+  {
+    "id": "s9",
+    "hash": "311ff5a7fb218b953921a91a437735aeb00c9313967b82f536423262780934d0",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2544
+  },
+  {
+    "id": "s10",
+    "hash": "ee4c595bfad65a13f89b58ff3e89fee2de7ece8cdb25958cbfa37f2e0ebbb84c",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 2184
+  },
+  {
+    "id": "s11",
+    "hash": "5d785d64ee444aa37a573c5ef44d2a66914c627e4bdb2d86269df9dd295dcb8e",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 2184
+  },
+  {
+    "id": "s12",
+    "hash": "6f8927c896bcc85b7eeba2bd44ba99ad423fef2cffe3571d49d2c658e9f54797",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 5712
+  },
+  {
+    "id": "s13",
+    "hash": "9d4e737cf564c513cbfed25fb0a6c8ac5170053bbf40cb71b10bb7e43c2f7627",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 2016
+  },
+  {
+    "id": "s14",
+    "hash": "39e286bef3735c715d1fcbb341177b57b93b12c765ed873fc9a095ed185217e2",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 3288
+  },
+  {
+    "id": "s15",
+    "hash": "a6cb6921aa97fc786c76f6077d8249535c1e56efb1140fc412456a13afd6b95b",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2832
+  },
+  {
+    "id": "s16",
+    "hash": "29abe21a20e0a75f181f160653c40657f50dcb135b2f98c08c74e73bf66a2388",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 3048
+  },
+  {
+    "id": "s17",
+    "hash": "f2a04cc15d0256a4fceead5d2d081dffe30e39bfdc5874f8d2696c8c7faebf51",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 2904
+  },
+  {
+    "id": "s18",
+    "hash": "fb0a386de28212921af0be3b5648b3a826a2eb4ae0b0747e4e55f38310c0c376",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2952
+  },
+  {
+    "id": "s19",
+    "hash": "d90d1b6dca64e79fdaed1260eb2cedef718a0c7827b1bd8c2d1a34fa941d1477",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 5112
+  },
+  {
+    "id": "s20",
+    "hash": "2a35e836dc2a7a0b3d58ee776d19fdd691001594ec01760af5e8b40ba1b03941",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 1896
+  },
+  {
+    "id": "s21",
+    "hash": "e2352ec18503dbd6c25e489987515a88517f9b6b4f2f23e14b72a4dd849dffe4",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 3864
+  },
+  {
+    "id": "s22",
+    "hash": "78e877036e039589e16719f0c9bf4815ea50b76c27c2abc1a28d8b9f261c389c",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 2040
+  },
+  {
+    "id": "s23",
+    "hash": "547c4376c27f459af73d49f1ab689055a01940155c1bd1bcdb4fd42ed9324316",
+    "edgeVoice": "en-US-ChristopherNeural",
+    "durationMs": 3240
+  }
+]
