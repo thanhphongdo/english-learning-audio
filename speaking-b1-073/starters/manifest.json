@@ -1,0 +1,26 @@
+[
+  {
+    "id": "h1",
+    "hash": "ae57f48b2701d73e108485fc90049d948b0705b28d559cd2428b09a8a477c64f",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2880
+  },
+  {
+    "id": "h2",
+    "hash": "c0d5356b3695823f35092a9e33f657d48d966fa3b94e8f71f83fe3f5d15de21e",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2040
+  },
+  {
+    "id": "h3",
+    "hash": "956350d0762e17bf1e44b4ddf4fe3cd098ab788ce43428c556d4aaa1063a0841",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 1968
+  },
+  {
+    "id": "h4",
+    "hash": "953946b787f5de1606d4befa00225c17cf5e06249f3a0d9cdeee23ec37bff443",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2592
+  }
+]
