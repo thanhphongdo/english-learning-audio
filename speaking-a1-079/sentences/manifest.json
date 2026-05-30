@@ -1,0 +1,86 @@
+[
+  {
+    "id": "s1",
+    "hash": "ed0758260fc9aea56bdad3103b779b647323a7460480ef3128838d38ad33d962",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 3096
+  },
+  {
+    "id": "s2",
+    "hash": "171465d1737cea533b6e6281b4eeadce29ba6204455e1e56b19a24c0735004b2",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 1608
+  },
+  {
+    "id": "s3",
+    "hash": "0843737e81a5220ed8f59eb3120e54543aee96196993f1a030e2160ccdaf2790",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2472
+  },
+  {
+    "id": "s4",
+    "hash": "c302995d2bdfa31dffea93068255608efbf61dbf58329900685e60d106f98538",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 3048
+  },
+  {
+    "id": "s5",
+    "hash": "d50926fa4b419f7aacc993b09474e5cadeba87b765399aad51c67e5bc6e60b6e",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 1920
+  },
+  {
+    "id": "s6",
+    "hash": "28b2c5aa62dc23dbe1d6454737a113350d5673d839769ae891d72db3162c732c",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 2088
+  },
+  {
+    "id": "s7",
+    "hash": "a3cf7e00f0f3f6a4a631921de22774d709e809c0640b460ffcb03799298012cf",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2136
+  },
+  {
+    "id": "s8",
+    "hash": "38d6aafc815fdf9b394d2e20e115c48eb47c184c4573d85fe1664c41d6d000b7",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 2328
+  },
+  {
+    "id": "s9",
+    "hash": "049dbf9aeeed34de7c7042b4602f3ced7f2fbe62dd230231ae09ba5a2a47e065",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2352
+  },
+  {
+    "id": "s10",
+    "hash": "7f9c02877068e3f189a1dacb359f1d7bc7d00dbbae14943d5497b65ea50c2dc0",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 2136
+  },
+  {
+    "id": "s11",
+    "hash": "d662d5d66bfa04f821e6274b5d8930f8747f540172244e1e7c8a82aa0dc03ccc",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 1848
+  },
+  {
+    "id": "s12",
+    "hash": "e3c7894425f34a30b12fbe181a62f573519fa84107afd3475853518ee19582bc",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 1920
+  },
+  {
+    "id": "s13",
+    "hash": "0b6bb0f657ec36d3a880996fdd1cb20be08f10377c82faa94b7f65338de102bc",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 2400
+  },
+  {
+    "id": "s14",
+    "hash": "3d858c9972706c127c64fea8d62584f19a19a24205319d74cebbd47cd5162414",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 1776
+  }
+]
