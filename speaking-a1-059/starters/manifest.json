@@ -1,0 +1,20 @@
+[
+  {
+    "id": "h1",
+    "hash": "32a819cf44802cb979abb2b818bc443d4e00d86b8eb569c66dbc579d9490764c",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1680
+  },
+  {
+    "id": "h2",
+    "hash": "1b768a834998abe52f29559649dcdac12e75af4f2587bed6d179b9d555d6e6cf",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1344
+  },
+  {
+    "id": "h3",
+    "hash": "c035350888f1b190bf9f459466a218358709c6b5b1f8f99c529c31e8df48c81b",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1176
+  }
+]
