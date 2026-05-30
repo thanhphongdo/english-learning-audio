@@ -1,0 +1,38 @@
+[
+  {
+    "id": "v1",
+    "hash": "03ff6fb51e136a8237348d39c1b8059498f4c6d58d7166a73d5f9696eae33ec3",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1872
+  },
+  {
+    "id": "v2",
+    "hash": "80803d14c97503d78b3291d3e0f610962308909a94d30116b6199844c9bfcf7e",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1752
+  },
+  {
+    "id": "v3",
+    "hash": "9b417597a467a3564796aa19d293e16a115e89535f902abbc4d9069a3153d4ca",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1800
+  },
+  {
+    "id": "v4",
+    "hash": "f04760de78686bb8a41af66de26f4c0dbb0628780df99024c8291edaf920bf2f",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1800
+  },
+  {
+    "id": "v5",
+    "hash": "5f76f2a5183c6f649386d3ffffca1f3841b70bde3576a68a2a6dfbbf9465c8f6",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1320
+  },
+  {
+    "id": "v6",
+    "hash": "a981a66a919d3bd13f1f4239d30ec144d417fff515009960ab43aece1fbf8360",
+    "edgeVoice": "en-US-AvaNeural",
+    "durationMs": 1392
+  }
+]
