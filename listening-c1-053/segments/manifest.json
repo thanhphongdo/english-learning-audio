@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "176a1dd9b3c6eef93588cc9f9c55d575b484f221cce1d2d1f19f503f3c1fa6f5",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 13320
+  },
+  {
+    "id": "g2",
+    "hash": "9212f20992c7292ab8ccbf1b840b6fbe9b102d67ec546d63f7ffad99d9b68394",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 31896
+  },
+  {
+    "id": "g3",
+    "hash": "f173486ccdce36bb70c46dbc92a2372445a4c7b278f2b6693cf7902e30294a62",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 7752
+  },
+  {
+    "id": "g4",
+    "hash": "323ce3a8e69aa8bc3c3ec0e6a2eca826f75d4941485cb7b235aaddf99e45a5f5",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 31008
+  },
+  {
+    "id": "g5",
+    "hash": "c71313d798dc9c7c6a0006e337a7bf87a326db9af714835eaaa7bfeda3ecca96",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 6624
+  },
+  {
+    "id": "g6",
+    "hash": "913a3fe0117b1934c6ff8a8cef20779e5b63afb4ba4489990a06e2e415bc35ae",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 40944
+  },
+  {
+    "id": "g7",
+    "hash": "31b0544f21ff77c5a4b68ccea53e9b3d92b9ba58ddd6e62141f47526153b2af2",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 8088
+  },
+  {
+    "id": "g8",
+    "hash": "501db9b0da4ebadc838a739421baf9f0e57fef2251e28d2fb1ab667e8344da52",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 40272
+  },
+  {
+    "id": "g9",
+    "hash": "d69b3463b5b5066d9edea428e8851b0a4767c43b2fe99c7d8a7255f40703978f",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 7392
+  },
+  {
+    "id": "g10",
+    "hash": "40796e64985df5d6488e8503fe593f71e9d92276c7708f8d0643aa5cca5fa803",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 38976
+  },
+  {
+    "id": "g11",
+    "hash": "6472916e32622fd995343cc2027fd90781f1581113537080cbd97a4a53c83f3f",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 5232
+  },
+  {
+    "id": "g12",
+    "hash": "7920727264451893c7d9676e3da072b165f823ffdab93bee0a7208a4a55fe28e",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 42384
+  }
+]
