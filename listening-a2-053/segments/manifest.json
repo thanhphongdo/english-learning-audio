@@ -1,0 +1,86 @@
+[
+  {
+    "id": "g1",
+    "hash": "37a3c2be42840e5576e6307753c0a6957f2d9b16038d7826151a2faeb2907adb",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 8520
+  },
+  {
+    "id": "g2",
+    "hash": "3bd5f5667788a9f2699afd20ca83810e3e711fab9f2168097345e2f62788682e",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 4176
+  },
+  {
+    "id": "g3",
+    "hash": "65f101d7d0d84729f9e4a4c67fc718b522c7ee7594557b31ab902f4e3d9a7063",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 7464
+  },
+  {
+    "id": "g4",
+    "hash": "c1fceb3c4f1108351e16fc37b549f31465e733fd0fc2098f368c35bfd52c7061",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 8184
+  },
+  {
+    "id": "g5",
+    "hash": "70e746a2d9bb87486df94516cccb4267b58229a2c317d96b69da216669f656d7",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 5400
+  },
+  {
+    "id": "g6",
+    "hash": "c30bf60a10e7cb642a17b9d7132663f616b3878076556c50d82b5b23e451d37a",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 6840
+  },
+  {
+    "id": "g7",
+    "hash": "a49e77ea93475995e4e266467095d70a9f047e9f9f1c265c675ac1298aab48c7",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 4368
+  },
+  {
+    "id": "g8",
+    "hash": "15c0d333e83dbd2aa86f183dbafb2bc940a1a390ad1ec3940d87a98d0ac833ce",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 8448
+  },
+  {
+    "id": "g9",
+    "hash": "c8ee7026a93fbd8b5772caf7988b527afd078f3a8daeeedf7940d5e08e91f358",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 4944
+  },
+  {
+    "id": "g10",
+    "hash": "249dcbd91df1022a60d18ec7f6596e8ab1e7990fef5518b3672365371425e1c3",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 6552
+  },
+  {
+    "id": "g11",
+    "hash": "9564ec6eb8197a6f05015ca4770e3c1df0e0d0ecb30a7a89fb771647a3a12256",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 7032
+  },
+  {
+    "id": "g12",
+    "hash": "ba94c03175ff3df468446e035737167278ace2a714fb284b55bed9de944d09d4",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 8424
+  },
+  {
+    "id": "g13",
+    "hash": "1d0bbdde34deed0216e0931e17c37663868cb6dc78e22bdd5c1cb0401b8c27de",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 3864
+  },
+  {
+    "id": "g14",
+    "hash": "5120a6cfbb87127d4c64e2735214c1f59264ff80fc9b3d9fc982604bfc21fe27",
+    "edgeVoice": "en-US-AriaNeural",
+    "durationMs": 6912
+  }
+]
