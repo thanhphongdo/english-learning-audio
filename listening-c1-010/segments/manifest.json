@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "8dcc677cf7bc77dc486e56b15946e9445816212ce950e250f7541a3ab1b0ae9c",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 20760
+  },
+  {
+    "id": "g2",
+    "hash": "69eb90c8059ace4d0624171a31f9b297b2c852b2b827c9617b57eac5be3e22f6",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 20376
+  },
+  {
+    "id": "g3",
+    "hash": "42104252cf7e1ba397839313ffe5f6b45470ecb866b1f19fb9de6f7dfdca7f17",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 21864
+  },
+  {
+    "id": "g4",
+    "hash": "ec2ac288f2b414cd7c5fbd1fa3d3f8d905fffbc70e50bc785608223eca877637",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 26472
+  },
+  {
+    "id": "g5",
+    "hash": "c2448d2991ab5f4d16aa02808cf2e9032254e81bc85523bfac98fdf262b31a44",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 28248
+  },
+  {
+    "id": "g6",
+    "hash": "5fd34a34d54bee9e85e489b7dc5a780d4c3d37a0cdc26775695441a6ccd1ccc2",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 35040
+  },
+  {
+    "id": "g7",
+    "hash": "03db820e41e2a2bc7c09950754afdbd10a51536e29cb4262c2efcfb9d891d39d",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 28296
+  },
+  {
+    "id": "g8",
+    "hash": "7b738fe52e7dec4a55696eaa22d43e13229ab7eb28c3284f0c0a126ea9046e19",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 34344
+  },
+  {
+    "id": "g9",
+    "hash": "a51463cab1c9579b8b2eba1c5ca9bb11137769ef72b0eba219b5692ac6affca4",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 23520
+  },
+  {
+    "id": "g10",
+    "hash": "24775d27d3a0835e2e4f1eb421b7972988fdf3cff390ad364c931a176b103aa9",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 22176
+  },
+  {
+    "id": "g11",
+    "hash": "af6c4a96aa88c6be50fc37879112d9e36a827de9fc2cb724c47e97e68306da6e",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 28224
+  },
+  {
+    "id": "g12",
+    "hash": "1bde959d67e27e47b48fc56747510deff13192e6ebcb53e4f00dbbd613fc33e7",
+    "edgeVoice": "en-US-MichelleNeural",
+    "durationMs": 21888
+  }
+]
