@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "59d39a3f459bd062966249b014259fba3ab4fd92a0ebf86950693b05a11acd1c",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 8952
+  },
+  {
+    "id": "g2",
+    "hash": "f871661e0f8d15be69e4b127fa46529fd49cfb178e16bc6e7e91faf383e94651",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 3792
+  },
+  {
+    "id": "g3",
+    "hash": "712302c55f4cfcb5d6b4feab9fb0779d71abb7f75fe120f92f81722b78a1a93f",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 19392
+  },
+  {
+    "id": "g4",
+    "hash": "8011415d6db1512b780f0becf4e31ba9e1aaca7e1cd8328d2a6fa95d91a94582",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 14016
+  },
+  {
+    "id": "g5",
+    "hash": "a9e9cbf88b1d6e0d9950430d17d257e8d97f07a48b088af09f5defe2a488dd90",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 19536
+  },
+  {
+    "id": "g6",
+    "hash": "340909647a05a7c598eabbba1f7ca3258a7e375e8602b152e3414ecacb8be6fd",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 21648
+  },
+  {
+    "id": "g7",
+    "hash": "de2eef6a158024f2c2577e9edf0f9cbf04269e0e74451a40bd46c3340c13c151",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 15336
+  },
+  {
+    "id": "g8",
+    "hash": "59afbe1e1d39000765b0a24fd6e07f171e315392593c5c095bbb16562c7c4f50",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 17352
+  },
+  {
+    "id": "g9",
+    "hash": "5c777f56d9f318c1ee5c065bd4072219a638b195706c5f192aebc124f79dc801",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 12936
+  },
+  {
+    "id": "g10",
+    "hash": "562afab5215d48101d317c17182f60cce35075f906e5c4d6ad815e03ef2e9552",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 17880
+  },
+  {
+    "id": "g11",
+    "hash": "8e0c4b8b58bb0be814e5bc76c68a3523b1e83bb4322f8f21488d39e322f59cf0",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 15696
+  },
+  {
+    "id": "g12",
+    "hash": "37df6af6cab272ef2f3b1a20ef5932f585ac5cac5e3c3129cb070663f28e8ec6",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 14136
+  }
+]
