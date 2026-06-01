@@ -1,0 +1,86 @@
+[
+  {
+    "id": "g1",
+    "hash": "da411db5eb3399782ed12277adab30e440a7082014643ffd2409ccfaaace2a79",
+    "edgeVoice": "en-US-RogerNeural",
+    "durationMs": 28536
+  },
+  {
+    "id": "g2",
+    "hash": "2cd6727697cc92052442b0e8486368906bc4c48fd88fdc8280e60ff5adfc9c68",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 36240
+  },
+  {
+    "id": "g3",
+    "hash": "13e6931784c1054efa5cdc86cffbc028278f947f2ce0d3f877c5c5174baef8e8",
+    "edgeVoice": "en-US-RogerNeural",
+    "durationMs": 15984
+  },
+  {
+    "id": "g4",
+    "hash": "2bd5fae20dc03d790df3fe9063bbfffca14bc3bfe2d57ca9325e80d33027354e",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 37728
+  },
+  {
+    "id": "g5",
+    "hash": "e5e012d60864a9cfdda6060b5352e87d54d9a67a60b519af248d927bc13d9cb1",
+    "edgeVoice": "en-US-RogerNeural",
+    "durationMs": 18408
+  },
+  {
+    "id": "g6",
+    "hash": "e7beaeca4fa26175001d64cfb94898d8b2afccc2217f6368da074097271083ec",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 35424
+  },
+  {
+    "id": "g7",
+    "hash": "ef39ef06a1d5d9ae0089c1ac8ba929d711b24ceda31cc3baecfd97c99b3ba2f0",
+    "edgeVoice": "en-US-RogerNeural",
+    "durationMs": 21816
+  },
+  {
+    "id": "g8",
+    "hash": "5b2d91ce5310c71ef10f26fd812fa2351b20ecb923d2273f795b9f4b9ab8dfd1",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 38376
+  },
+  {
+    "id": "g9",
+    "hash": "e9faaf5bac63bc179d5b41d383e3e0a55a4379ca30af86b0680f63dd26aa9e9a",
+    "edgeVoice": "en-US-RogerNeural",
+    "durationMs": 22992
+  },
+  {
+    "id": "g10",
+    "hash": "fe7322b69714b8195125ffca89091cc06f310e2633888ec2c5cb9f56c134079e",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 32424
+  },
+  {
+    "id": "g11",
+    "hash": "e95bbd7d926759f066bfd6d177e138a52e164c08d053d4c3ef78f6e01c7b2c0a",
+    "edgeVoice": "en-US-RogerNeural",
+    "durationMs": 21864
+  },
+  {
+    "id": "g12",
+    "hash": "59656ab21c580307a886d4ebc7ac1c37572586a2ab957d6127a717c4a2ae1c36",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 28464
+  },
+  {
+    "id": "g13",
+    "hash": "e53d6aa7040fe5edf78d1111b1248e6a5f11546b84a76312fdb799697e475fca",
+    "edgeVoice": "en-US-RogerNeural",
+    "durationMs": 17904
+  },
+  {
+    "id": "g14",
+    "hash": "2d3379104786ac11a81251ed9cc589482353bd3e6aaa6377813fa17c6cd2d2d1",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 31896
+  }
+]
