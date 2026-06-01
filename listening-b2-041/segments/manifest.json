@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "6ed81b1aa817d7c63f09d374004b8500c35ed5d134d32d5a8cb66178ad86071d",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 16656
+  },
+  {
+    "id": "g2",
+    "hash": "72d1930c9c5d4047b08eaa789668e0ead8c538c60828e7370d80f7d245a715d6",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 24408
+  },
+  {
+    "id": "g3",
+    "hash": "7cb6ebd4d4c362f846795bcfb9fa4f4b0ab854027063d767cc1dd950f6142c72",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 17760
+  },
+  {
+    "id": "g4",
+    "hash": "08afbf995ba0d5ecf653a73b949ea8598479189b0454ffa031081d79e9efcd10",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 22536
+  },
+  {
+    "id": "g5",
+    "hash": "c0bda295938ce62d0b544252df24f146335412cc63e97b1d2d9a7a1eb2ec3064",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 18456
+  },
+  {
+    "id": "g6",
+    "hash": "2fcf4b2b60134f8fa762891204b37ccdc9560bebf6dc58c403a70e0607e4003d",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 22680
+  },
+  {
+    "id": "g7",
+    "hash": "41c37449b433f6538a1ae9a1f6a03632ac49c0b4cef47d41ab3ad2cfe4dfcc73",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 17664
+  },
+  {
+    "id": "g8",
+    "hash": "57055ca74ea72d2b1a64147386fa9abb1f8807c084412c94e812042034041b5f",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 21360
+  },
+  {
+    "id": "g9",
+    "hash": "7ea889d30753fcf3c9ad85f3da2f4b9d26e022db6ec57f89cd670184b891749e",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 22728
+  },
+  {
+    "id": "g10",
+    "hash": "a4b1be3adf9a1b3c161b4329b80701ae77488bfd1c91ea12fbb03033d9a95f20",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 18504
+  },
+  {
+    "id": "g11",
+    "hash": "479e806ee73582772128a85d7b7610348f6d2c78442af64b7e12c8b27a103ad8",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 20232
+  },
+  {
+    "id": "g12",
+    "hash": "ca78b8116f54fc6b1af0effa61dc4137ec138bfc85f1918f03a29faf2f0d4f01",
+    "edgeVoice": "en-US-GuyNeural",
+    "durationMs": 19800
+  }
+]
