@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "be96b45491e352d3f165fee44b58f92f817ac2161c2aae964d147dde0dc0b740",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 19848
+  },
+  {
+    "id": "g2",
+    "hash": "c4e0c230ef0d378125fd25c4d79376b4573e209002ebf4834927a190fd1ba831",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 24192
+  },
+  {
+    "id": "g3",
+    "hash": "35303324d01d4655dbb556734a2e999177153374fb208324f1bd63cbeec561fa",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 21672
+  },
+  {
+    "id": "g4",
+    "hash": "e96c9f96507e6789b5989f3bd53b0a76863f161d7d3df673e00d763e6aeb46d3",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 24144
+  },
+  {
+    "id": "g5",
+    "hash": "2e801b39f42a7bdd8f2ff96e29549ddb2366230f8d15b8bd0fcabd03c8343185",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 19848
+  },
+  {
+    "id": "g6",
+    "hash": "a4aabc32f1357cb5da1459cb9b3ba870b714e6d04279ae2e6a2a011a283c11a9",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 27936
+  },
+  {
+    "id": "g7",
+    "hash": "d4bdcba01ab95c76eba8f0757c4513a15f1d77226c1e9b7c926f56b0af9b7b3c",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 19080
+  },
+  {
+    "id": "g8",
+    "hash": "53ebeb9f6f0b02f057a7d92658bbfdbcdc19c7573b9e6753744041f3aead931e",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 23712
+  },
+  {
+    "id": "g9",
+    "hash": "35f9765721a4a9fbdf3f2ceb57bb4d8272b86e565b60835627dccd9bf2ccff04",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 20568
+  },
+  {
+    "id": "g10",
+    "hash": "f9d8b11d2926937f50ead19f1ab54df4c231aa1e0eb86b0e3f59354bd3d64efe",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 20280
+  },
+  {
+    "id": "g11",
+    "hash": "60dc8f8670ca868544f372040a9a2bebcfe929806f8930731c69f822362dbd0e",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 23640
+  },
+  {
+    "id": "g12",
+    "hash": "f2b43cc1a095f719179ef9586fd3486b6cadf35804314fe0f6e98108bb04ffd8",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 26952
+  }
+]
