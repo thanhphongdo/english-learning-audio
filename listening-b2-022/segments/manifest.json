@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "9bba0676c4f185b3e1a6d99b506d6f02baee3829e1553472ac2dfb9f9cdc4152",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 14352
+  },
+  {
+    "id": "g2",
+    "hash": "8887f1fc98195d54c8536212af0ecd62aae396acd7aff2fcbb3949a1b363fa2f",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 21576
+  },
+  {
+    "id": "g3",
+    "hash": "b9cefc59dc6282a54296ec20129fcb210a255e188f701bb302f91c1bcc4ae36f",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 9336
+  },
+  {
+    "id": "g4",
+    "hash": "7c0d2efd1d163a09c582b3dc3c1726ccfc13f45f51430faa1a0c7f43771389a1",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 17304
+  },
+  {
+    "id": "g5",
+    "hash": "77f3dfc30e52f0fe5a7c809ee32dbdda25e0d2897b0088da9ad012740fc9e265",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 11064
+  },
+  {
+    "id": "g6",
+    "hash": "b34367cc4c551ce96de0927c92dd5bc19d4bfa4b6e4e69dfac7e9b3fcac3c429",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 21024
+  },
+  {
+    "id": "g7",
+    "hash": "662f866ada0c979543f3ab1d72f2e678116a79bd0bd38f0812da4f7bec6fcced",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 16776
+  },
+  {
+    "id": "g8",
+    "hash": "bf1a2c93084b31d93d8dcb10ca50e55598482028640def64bb67e9e4d7efb51e",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 24984
+  },
+  {
+    "id": "g9",
+    "hash": "5b3000d6ad86578c299ae9eee81e7f806c97d8cc9320ca601aa2dd80c625d398",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 5400
+  },
+  {
+    "id": "g10",
+    "hash": "e9244ac68863da1f15c1e36dca6ab16bf2464485d5f5325904c295761956f7d1",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 22296
+  },
+  {
+    "id": "g11",
+    "hash": "3c9ea403106bde4fa310109fe170607b823f442bf9b60e287efc955fec17eaf7",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 8304
+  },
+  {
+    "id": "g12",
+    "hash": "ef155ab6a3fe013b3f265e2bc494c82b5aaea09b1457ac2c9af2a2f0a76a6ac3",
+    "edgeVoice": "en-US-AndrewNeural",
+    "durationMs": 18792
+  }
+]
