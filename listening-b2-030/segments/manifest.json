@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "8f0b7c078b4145a10980f72def58fdc9eeb9e960835586764978700b65626fd5",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 17544
+  },
+  {
+    "id": "g2",
+    "hash": "f7ebcff7dd8563a3c0dbac297386c0a1f5a154a839ab60edc4b05c56fd534c86",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 14472
+  },
+  {
+    "id": "g3",
+    "hash": "5e6aa603a9ecade896561c7817123a2dc3e1702ff8904314f33b582feb62a994",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 12888
+  },
+  {
+    "id": "g4",
+    "hash": "f9ced03a999bb0b2e81cb91f37711ad022a1b563966db05a64b10616ba107f7f",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 16848
+  },
+  {
+    "id": "g5",
+    "hash": "87ca8b9c3ce83cf5ed7eedfff3f18f92a0471d718b39476c11d79bcb8ea630b0",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 9744
+  },
+  {
+    "id": "g6",
+    "hash": "704012d52314433b125110769545c2ee5e08003259438e1bd1b7d12e149bac8c",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 13392
+  },
+  {
+    "id": "g7",
+    "hash": "2a79b7a05505c2d1424b254277fc0b5519cb768556f5dbdde929c9774b57680c",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 11928
+  },
+  {
+    "id": "g8",
+    "hash": "db8405de644531fefa6c2a4ab823a6a292db746596d80907b1f7cc839eaead56",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 13488
+  },
+  {
+    "id": "g9",
+    "hash": "5be2df52618bf9089afe691bb6b057338fe8e8415ad614df21c74f005bed4c03",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 11520
+  },
+  {
+    "id": "g10",
+    "hash": "43c9af3b6b372a20141e40b9257f378cfb79bdef0198dbf4a66c3c7c4a286045",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 15936
+  },
+  {
+    "id": "g11",
+    "hash": "bc77451f8b7366b7c0a0331e89d39757785362b763a8601d9e9101190c98cc64",
+    "edgeVoice": "en-AU-NatashaNeural",
+    "durationMs": 5952
+  },
+  {
+    "id": "g12",
+    "hash": "a4573a5eca7e109731c52be59c29b85ab076e5085d50ccd81915e988975a9a31",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 15096
+  }
+]
