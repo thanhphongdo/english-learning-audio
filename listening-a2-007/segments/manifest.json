@@ -1,0 +1,98 @@
+[
+  {
+    "id": "g1",
+    "hash": "1985cec55f9306e88b189e73d1d7583276e2015861fbb5d5a2d22e61046db9b9",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 6048
+  },
+  {
+    "id": "g2",
+    "hash": "bc044bfa28b555aadbe0e35df42ae3add57a45f2ab595cd9861b8f204b88bc79",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 4176
+  },
+  {
+    "id": "g3",
+    "hash": "79580db445c3ac06e6e65cdd9dedcbd4e33c51e6f75d69e5c03009633c7a3855",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 5040
+  },
+  {
+    "id": "g4",
+    "hash": "d084a970022593452d0d6d86dfe7ceeb2200d9ceefc730651eaead96cebb68ad",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 8640
+  },
+  {
+    "id": "g5",
+    "hash": "01d0b1f6279903ddea09e656423b98cdd740cd66321eae2d242283cd755c42af",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 2496
+  },
+  {
+    "id": "g6",
+    "hash": "e26da10c8a04305d78946e7576cd7fea09736d19ff4bdbc7797a31976039f4c3",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 4200
+  },
+  {
+    "id": "g7",
+    "hash": "9e3732ead0bfad3c567f8e040a640d7d6d72d5576c6c926b60b58ca80b48107b",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 2904
+  },
+  {
+    "id": "g8",
+    "hash": "a41f2455982acc4d0e3e7750e9e3eb79f77d4179d06bf75ff488ce665533496d",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 4488
+  },
+  {
+    "id": "g9",
+    "hash": "db5543e03d1f1a807ed23227fb6a432eeaf58ea68d1a9cb287981d7a01f224fe",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 4872
+  },
+  {
+    "id": "g10",
+    "hash": "2d66b630218dbc1184ac3403826c57ac46d4649aa5b5ed882c2e9353b7d43b1c",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 5952
+  },
+  {
+    "id": "g11",
+    "hash": "4a47592e9aaadbc559b4e36ef5d772dac1d9cd152c1387b95d4b6963e6cc36dd",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 3768
+  },
+  {
+    "id": "g12",
+    "hash": "794fe65d187571091dd62d0a49b39c5509066b30ddb23ed889f50f0b01e96b88",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 7272
+  },
+  {
+    "id": "g13",
+    "hash": "c183fa9f670c5c1a1d3df215759a0fd8411c68f8984c2e353a15c53ddf9e061e",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 5928
+  },
+  {
+    "id": "g14",
+    "hash": "f05fcac52e4b49a2cdbeb6911e14ed0f83bf0f77cc0a00f5fba6e00458d386d3",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 6648
+  },
+  {
+    "id": "g15",
+    "hash": "60c2425ecaadc272a04b9bf0408bc84ccc0812eb20f21421c7e27b357af843b6",
+    "edgeVoice": "en-GB-ThomasNeural",
+    "durationMs": 5088
+  },
+  {
+    "id": "g16",
+    "hash": "ceee2213841b2d245404fd1e2a6e82d0057ebda01cfa1645748566b429266c83",
+    "edgeVoice": "en-GB-LibbyNeural",
+    "durationMs": 3696
+  }
+]
