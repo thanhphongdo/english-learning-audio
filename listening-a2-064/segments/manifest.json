@@ -1,0 +1,80 @@
+[
+  {
+    "id": "g1",
+    "hash": "5a0ad1afe4686944290ed51ce9cf74c5298e0d432b5d066349bad902871ca1b1",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 10176
+  },
+  {
+    "id": "g2",
+    "hash": "f489b57f536ffa1c8c66fab30b13b0d0d6bca09365d8bc190c387efe59552360",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 5448
+  },
+  {
+    "id": "g3",
+    "hash": "33b134d8efeb531508133cb7cfbb124e2704c2f28fa7e1393f1ee4460e62252b",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 10080
+  },
+  {
+    "id": "g4",
+    "hash": "63a8a613434aa163c669e36d86a12eacce20981f50262747e16f2ef8da00b3bb",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 2544
+  },
+  {
+    "id": "g5",
+    "hash": "b8085c1311c7149acc7bb266de4f304c62dfdc7a2d403192929ff6679afec162",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 9096
+  },
+  {
+    "id": "g6",
+    "hash": "695e1e48df4a12932b7ae65a0ff4b4132cf79701b0764a717ed880d508dc577a",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 4560
+  },
+  {
+    "id": "g7",
+    "hash": "93951e9e7f185d150106bb5862ce2b8a8516ac8bdeac4b36e05f2699bb575360",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 12216
+  },
+  {
+    "id": "g8",
+    "hash": "7b561bc318035b3d08197396e20ca356e80ea3b85189c7863f3d25e189933180",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 2712
+  },
+  {
+    "id": "g9",
+    "hash": "49474b1e9f5c383c3ead075ab77f5cc265f2f7aa40ef441224b28248fd29e1d7",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 12720
+  },
+  {
+    "id": "g10",
+    "hash": "1aa1f9c10fc7c1a07775e083499c763190c6b5e55a251b0508ff9de7cf71df68",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 3360
+  },
+  {
+    "id": "g11",
+    "hash": "9d4fd628827c94d3d864f58fcaeb7d1989d0597bf0c379004594ced6a29f695b",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 8784
+  },
+  {
+    "id": "g12",
+    "hash": "a77b294399e5b33dbdc85b0533ec6cf34cdd1014828522fbbab94ec7988df89d",
+    "edgeVoice": "en-GB-SoniaNeural",
+    "durationMs": 5952
+  },
+  {
+    "id": "g13",
+    "hash": "a427182e9b586f5b52a34c06c7974f03eea1ae1a379a27c9de4b4dcb5689d6b7",
+    "edgeVoice": "en-GB-RyanNeural",
+    "durationMs": 9264
+  }
+]
