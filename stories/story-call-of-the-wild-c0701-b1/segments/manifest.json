@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "04b4ddc2f8555a3dc10a8049cc8222860476d587171a264ebe21a4e36f2b9736",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 30000
+  },
+  {
+    "id": "g2",
+    "hash": "c5128ab5c651469dd3cd6aea8735516138451d98c1cc3fd2c1b7ace8ff049520",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 28416
+  },
+  {
+    "id": "g3",
+    "hash": "59eaa930540feeac29465a7f7a54943cebbd01606cbf118179bc51e69919688b",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 32856
+  },
+  {
+    "id": "g4",
+    "hash": "eb57d4a80e7452d480f12e215ebb752f5e3ab6831f9e8be4adba4d9b6d97b8f4",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 37104
+  },
+  {
+    "id": "g5",
+    "hash": "a526343a908cbebdf1f07ddd68ae72d6c59053a020d1a8333c9a206fe5d723f4",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 36000
+  },
+  {
+    "id": "g6",
+    "hash": "08df6ff381aa6f6f8ea60d78b4731dcec9bc490e5c06ebfd385ba71121b1bc8d",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 36840
+  },
+  {
+    "id": "g7",
+    "hash": "ec432e047db38ebfaf23b2de8fab4066ddf2ca89042b5c9121cb7d3880c66657",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 35256
+  },
+  {
+    "id": "g8",
+    "hash": "67289b432e6a14b012654f1d823a52dd8228c88c1a8bb969f2855051cafc96b8",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 21144
+  },
+  {
+    "id": "g9",
+    "hash": "9e2277d1e82ce9c87f2bcd0b3eb4e6666d9496fa33bec671b531178f0ac47204",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 45120
+  },
+  {
+    "id": "g10",
+    "hash": "97575c23fbf1843e08de7a4dd3cadeb5226ab6e7bc92626d5afb9e59cbcc1ac9",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 37680
+  },
+  {
+    "id": "g11",
+    "hash": "cb7ba3dbc097c32e9ee4a3c6ee10de36fb8b4239fe14e34475a3a3e0a7e378f6",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 56016
+  },
+  {
+    "id": "g12",
+    "hash": "b1acbe7550e5ede1647d94b170251242563e4065f3270d64d53255b7c17c2618",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 52824
+  }
+]
