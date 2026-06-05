@@ -3,7 +3,7 @@
     "id": "g1",
     "hash": "2c848c23b2cff6cfd6cef5f51e7010964e8640f7d2f794f8341634745cf74562",
     "edgeVoice": "en-US-BrianNeural",
-    "durationMs": 6744
+    "durationMs": 37944
   },
   {
     "id": "g2",
@@ -57,7 +57,7 @@
     "id": "g10",
     "hash": "91fffede4f600359a58e651786f84115941e08b8fba91ebe2640be7974b874fb",
     "edgeVoice": "en-US-BrianNeural",
-    "durationMs": 24072
+    "durationMs": 28872
   },
   {
     "id": "g11",
@@ -69,6 +69,6 @@
     "id": "g12",
     "hash": "df26c4c692164789bb9a5953d8e61110f7d9117a7e3001a3ac7f8aa3f80ff70f",
     "edgeVoice": "en-US-BrianNeural",
-    "durationMs": 7488
+    "durationMs": 54288
   }
 ]
