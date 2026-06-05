@@ -9,13 +9,13 @@
     "id": "g2",
     "hash": "1b48aa4f78d3f29e65696cfb1f93d096c798acc76e5c6af08258d17e2f7ed71b",
     "edgeVoice": "en-US-BrianNeural",
-    "durationMs": 10680
+    "durationMs": 46680
   },
   {
     "id": "g3",
     "hash": "266bfc4c0d57d10f37181e703413af9bf7ce16fe0f0fc92dee582fe36c0c90ab",
     "edgeVoice": "en-US-BrianNeural",
-    "durationMs": 11208
+    "durationMs": 40608
   },
   {
     "id": "g4",
@@ -57,6 +57,6 @@
     "id": "g10",
     "hash": "780d27d1814cf47a830ad2847b67f97d612e60abeed3ce7656af76c944ede0a1",
     "edgeVoice": "en-US-BrianNeural",
-    "durationMs": 18600
+    "durationMs": 42624
   }
 ]
