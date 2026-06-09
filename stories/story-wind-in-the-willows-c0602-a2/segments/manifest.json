@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1",
+    "hash": "68d24eecee93fad2dee511b22969da26e70bb149a9bc77d67d7b397b8882cc9d",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 19632
+  },
+  {
+    "id": "g2",
+    "hash": "5f0d3ea242e31ba0435c29c1400f6409e13686c5b0c57a7736e4e1b3ac9f3adc",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 17592
+  },
+  {
+    "id": "g3",
+    "hash": "409afacab91ee3d093efe894f092715115e434ff9e7e64a1e171f300933573bf",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 20208
+  },
+  {
+    "id": "g4",
+    "hash": "8830529cc584fcbc8679bcd2da9e4c2cd88f16386d72a7b0e79dd384df19ef2d",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 17568
+  },
+  {
+    "id": "g5",
+    "hash": "a1a5789ffeee7e1c25996acbffa66062190c5d9b2cfee3a176bf22142cd90e82",
+    "edgeVoice": "en-US-BrianNeural",
+    "durationMs": 33144
+  }
+]
