@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "hash": "caa5203e370023052cebe5f0227bc9806fdabfbbc74edb480e53c229480441a3",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 23496
+  },
+  {
+    "id": "g2",
+    "hash": "d13d4947ce307fae3192dccd8dcc281e47913abd335549134f1651da0c972734",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 17928
+  },
+  {
+    "id": "g3",
+    "hash": "a9392b340b748335cd3496d4dfa1d3a98906934321114d47df4429a3a4f7b1af",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 20088
+  },
+  {
+    "id": "g4",
+    "hash": "43dba8d0db6fd70b88c558a1eda6dbbdc6e4561d6cf49c6eeebdbbd81808d1f5",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 24816
+  },
+  {
+    "id": "g5",
+    "hash": "88c11c8ed88408a67b248c568c685c5ac57c9412efcd2e0ec3af26023f816f28",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 32184
+  },
+  {
+    "id": "g6",
+    "hash": "c3aca5d979182c8a6404382e8be529d32f35a99283bf51d1f30c4875e5a70e93",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 8592
+  },
+  {
+    "id": "g7",
+    "hash": "d2f005757b3b59c8be62d27d7a99a6529144de6a1776cb75138da892e9c49488",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 29232
+  },
+  {
+    "id": "g8",
+    "hash": "47d703d63f8fb2bb514b7e970b5108014dcc177c09944dd037b049b59a3afb32",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 13488
+  },
+  {
+    "id": "g9",
+    "hash": "2e7fc3fbf72b14a2151bff76962a92c1715c794a539212c9ad84139a9441e092",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 38112
+  },
+  {
+    "id": "g10",
+    "hash": "280273e155a2dd7c438268cbe41bc76ad9508c805bcea90cff2a84add2ce07d5",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 51096
+  },
+  {
+    "id": "g11",
+    "hash": "ca47f2c229b2cd12785ad51973506838c587668a9570629ece034cb107a0886c",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 32328
+  },
+  {
+    "id": "g12",
+    "hash": "f126ee99a95a58e710867a16006244f4a7b1621108161437f85231556eeb6fed",
+    "edgeVoice": "en-US-EmmaNeural",
+    "durationMs": 26088
+  }
+]
